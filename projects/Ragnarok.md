@@ -1,3 +1,4 @@
+---
 slug: "solana.com/ecosystem/ragnarok"
 date: "2021-12-05"
 title: "RAGNAROK"
@@ -10,3 +11,6 @@ website: https://www.ragnaroknft.com/
 twitter: https://twitter.com/NftRagnarok
 telegram: https://t.me/
 discord: https://discord.com
+---
+
+Ragnarok is a Japanese Nft card game which work by hundreds of artist that love anime and card games.
